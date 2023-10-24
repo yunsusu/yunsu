@@ -1,1 +1,1 @@
-**yunsu stydy**
+**yunsu study**
