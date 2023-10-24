@@ -252,7 +252,6 @@ footer .foot_inner .right a:last-child{
     left: 50%;
     transform: translate(-50%,-50%);
     color: var(--black);
-    /* background-color: pink; */
 }
 .login h1{
     text-align: center;
